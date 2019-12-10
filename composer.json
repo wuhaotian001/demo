@@ -1,0 +1,13 @@
+{
+    "name": "wuhaotian001/demo",
+    "description": "test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "devin",
+            "email": "913812595@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
